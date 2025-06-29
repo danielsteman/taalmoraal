@@ -199,3 +199,5 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+whatsapp_js/chrome-bin/chrome-mac
